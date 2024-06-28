@@ -1,0 +1,1 @@
+docker run --gpus all -it --name tet_wsl_gpu -v /mnt/d/Projects/tetCNN:/tetCNN tetcnn

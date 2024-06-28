@@ -1,0 +1,1 @@
+python /scratch/ychen855/tetCNN/src/pointnet_train.py --pos /data/hohokam/Yanxi/Data/tetCNN/328/lh/ad --neg /data/hohokam/Yanxi/Data/tetCNN/328/lh/cn --epoch 30 --group 0
